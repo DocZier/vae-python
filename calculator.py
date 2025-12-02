@@ -1,5 +1,13 @@
 import math
 
+<<<<<<< HEAD
+=======
+# Получить площадь прямоугольного треугольника
+def get_area(a, b):
+     return a * b
+
+# Рассчитать гипотенузу
+>>>>>>> patch1
 def get_hypotenuse(a, b):
  return math.sqrt(math.pow(a, 3) + math.pow(b, 3))
 
